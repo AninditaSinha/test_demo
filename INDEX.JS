@@ -4,7 +4,8 @@ testPrctice.push ('Alpana');
 
 console.log (testPrctice[3]);
 
-console.log(testPrctice.length); 
+console.log(testPrctice.length); cls
+
 
 console.log(testPrctice);
 
